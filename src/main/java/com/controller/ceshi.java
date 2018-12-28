@@ -11,4 +11,8 @@ public class ceshi {
     public String kok(){
         return "index";
     }
+
+    public  String da(){
+        return "";
+    }
 }
